@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	float num1; 
-	float num2;
+	float num2
 	float avg; 
 
 	cout << "Enter two numbers" << endl; 
