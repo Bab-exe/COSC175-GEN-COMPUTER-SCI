@@ -13,7 +13,7 @@ int main()
 
 	cout << "Enter two numbers" << endl; 
 	cin >> num1 >> num2; 
-	avg = ( num1 + num2) /2; 
+	avg = (num1 + num2) /2; 
 	cout << "The average is " << avg;
 
        return 0;
