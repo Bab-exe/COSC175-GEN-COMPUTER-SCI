@@ -4,7 +4,7 @@ Repository Birthdate: 9/7/2022
 
 
 #
-| Labs([Files](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224/tree/Assignments/Labs), [Info](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224/edit/Assignments/README.md#labs)) | Homeworks([Files](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224/tree/Assignments/Homeworks) , [Info](link)) 
+| Labs([Files](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224/tree/Assignments/Labs), [Info](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224#labs)) | Homeworks([Files](https://github.com/Bab-exe/GEN-COMPUTER-SCI-COSC175006--1224/tree/Assignments/Homeworks) , [Info](link)) 
 | - | - |
 
 
