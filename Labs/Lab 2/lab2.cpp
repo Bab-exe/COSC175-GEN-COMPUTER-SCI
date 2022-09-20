@@ -13,9 +13,9 @@ int main ()
 {   
 	//declarations
     string Fname,Lname;
-    float bodyTemp;
+    float bodyTemp,weight;
     char sex;    
-    int age,weight,feet,inches; //AGE , weight, and heights
+    int age,weight,feet,inches; //AGE and heights
     
 	//inputs
     cout << "Enter your first name: ";
@@ -29,7 +29,7 @@ int main ()
     cout << "Enter your body temperature in Fahrenheit (F): ";
         cin >> bodyTemp;
     cout << "Enter your weight in pounds (lb): ";
-        cin >> weight;
+        cin >> weight; 
     cout << "Enter your height in feet (ft): ";
         cin >> feet;
     cout << "Enter your height in inches (in): ";
@@ -41,6 +41,6 @@ int main ()
     cout << Fname + "'s gender: " << sex << endl; //gender 
     cout << Fname + " is " << age << " years old" << endl; //age
     cout << Fname + "'s height: " << feet << "`" << inches << "\"" << endl;  //height 
-    cout << Fname + "'s weight: " << weight;
+    cout << Fname + "'s weight: " << weight << "lb";
 	return 0;
 }
