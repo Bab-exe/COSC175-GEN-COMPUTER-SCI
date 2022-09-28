@@ -16,7 +16,7 @@ Repository Birthdate: 9/7/2022
     Last Submission 9/14/2022 3:15pm
     Due 9/21/2022 11am
  ### Lab 3
-    Last Submission 
+    Last Submission 9/28/2022
     Due 9/28/2022 by 11:00 am
     
 
