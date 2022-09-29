@@ -26,6 +26,9 @@ Repository Birthdate: 9/7/2022
 ### HW 1
     Last Submission 9/29/2022
     Due 9/29/2022 by 11:00 am.
+### HW 2
+    Last Submission
+    Due 10/20/2022 by 11:00 am
 
 
 
