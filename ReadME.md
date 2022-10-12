@@ -24,6 +24,9 @@ Repository Birthdate: 9/7/2022
  ### Lab 5 
     Last Submission 10/12/2022
     Due 10/12/2022 by 11:00 am
+ ### Lab 6 
+    Last Submission
+    Due 10/19/2022 by 11:00 am
 
 # **`All Homework`**
 ### HW 1
