@@ -1,0 +1,271 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 477>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Security Injections @ Towson) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 742.68 Td
+(Module: Input Validation - CS0 C++) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 714.33 Td
+(Student: Blessing Osereme Abumere) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 685.98 Td
+(Date: 10/19/2022) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 657.64 Td
+(ID: 1111775546) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 1540>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Discussion Questions) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 728.50 Td
+(Refer to Question 1 in the lab assignment. Which example \(phone) Tj
+T* (number, age, credit card number, or name\) do you think would be the) Tj
+T* (most challenging to properly validate? Why?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 652.16 Td
+(The 2 most challenging to properly validate in my opinion would be phone number) Tj
+T* (and credit card number .I believe these 2 would be the hardest to validate because) Tj
+T* (you must first check the length the type a the format of the input and then to 100%) Tj
+T* (validate the input you would have to do some type of external check to make sure the) Tj
+T* (phone number or credit card number is actually valid / usable .) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 563.81 Td
+(What are the challenges of adding input validation to your program?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 519.47 Td
+(Adding input validation has the potential to add vulnerability to the program if done) Tj
+T* (thoroughly) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 467.12 Td
+(Describe some input validation that you have encountered when using) Tj
+T* (software such as registering for courses, checking your account) Tj
+T* (balance, using a game, ordering an item online. Have you ever) Tj
+T* (encountered a problem with the validation?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 374.77 Td
+(No problems that i can remember) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+19 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+20 0 obj
+<<
+/Producer (jsPDF 1.3.2 2016-09-30T20:33:17.116Z:jameshall)
+/CreationDate (D:20221019101001-04'00')
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002343 00000 n 
+0000003645 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000000644 00000 n 
+0000000753 00000 n 
+0000002406 00000 n 
+0000002496 00000 n 
+0000002591 00000 n 
+0000002689 00000 n 
+0000002792 00000 n 
+0000002881 00000 n 
+0000002975 00000 n 
+0000003072 00000 n 
+0000003173 00000 n 
+0000003266 00000 n 
+0000003358 00000 n 
+0000003452 00000 n 
+0000003550 00000 n 
+0000003883 00000 n 
+0000004004 00000 n 
+trailer
+<<
+/Size 22
+/Root 21 0 R
+/Info 20 0 R
+>>
+startxref
+4108
+%%EOF
