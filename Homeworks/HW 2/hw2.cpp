@@ -2,17 +2,6 @@
 #include <string>
 using namespace std;
 
-struct person {
-    string name;
-    int age;
-    char sex;
-    string display(){
-        cout << "name: " name << endl;
-        cout << "age: " age << endl;
-        cout << "sex: " sex << endl;
-        
-    }
-};
 
 int main(){
     /*
@@ -25,7 +14,6 @@ int main(){
     else 
         cout << "The angle is not a right angle.";
 
-    person x;
-    cout << x.display();
+    
     return 0;
 }
