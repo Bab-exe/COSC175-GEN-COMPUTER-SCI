@@ -31,7 +31,7 @@ Repository Birthdate: 9/7/2022
     Most Recent Submission: 10/25/2022
     Due 10/26/2022 by 11:00am
 ### Lab 8
-    Most Recent Submission: 
+    Most Recent Submission: 11/2/2022
     Due 11/2/2022 by 11:00 am
 ### Lab 9
     Most Recent Submission:
@@ -51,7 +51,7 @@ Repository Birthdate: 9/7/2022
     Most Recent Submission: 10/20/2022
     Due 10/20/2022 by 11:00 am
 ### HW 3 
-    Most Recent Submission:
+    Most Recent Submission: 11/2/2022
     Due 11/3/2022 by 11:00 am
     
 
