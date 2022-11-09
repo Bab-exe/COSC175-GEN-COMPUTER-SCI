@@ -1,0 +1,310 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 475>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Security Injections @ Towson) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 742.68 Td
+(Module: Buffer Overflow - CS0 C++) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 714.33 Td
+(Student: Blessing Osereme Abumere) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 685.98 Td
+(Date: 11/02/2022) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 657.64 Td
+(ID: 618397340) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 1812>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Discussion Questions) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 728.50 Td
+(Describe the buffer overflow problem.) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 684.16 Td
+(Buffer Overflow is a problem that occurs when data is written outside of the allocated) Tj
+T* (range currently set for an object) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 631.81 Td
+(How could you prevent a buffer overflow from occurring in your) Tj
+T* (program?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 571.47 Td
+(You can prevent buffer overflow from occurring in a program by having a function to) Tj
+T* (check if a value is within the allocated range in a object .) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 519.12 Td
+(Give three real life examples of buffer overflow attacks \(research on the) Tj
+T* (web\).) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 458.77 Td
+(NVIDIA SHIELD TV ) Tj
+T* (macOS Catalina ) Tj
+T* (Morris Internet Worm) Tj
+T* (Libgcrypt Vulnerability ) Tj
+T* (Linux Detected Vulnerability) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 370.43 Td
+(What can result from a buffer overflow ?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 326.08 Td
+(In cpp unexpected things happen when buffer overflow happens . In java going out of) Tj
+T* (bounds causes an error  .) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 273.74 Td
+(Provide three different examples of code that contains buffer overflows.) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 229.39 Td
+(int arr[0];) Tj
+T* (arr[4092] = 1;) Tj
+T* () Tj
+T* (char x[0] = "13";) Tj
+T* () Tj
+T* (int a[10];) Tj
+T* (        ) Tj
+T* () Tj
+T* (        for \(int i = 0; i < 10; ++i\) {) Tj
+T* (                a[i+i] = i;) Tj
+T* () Tj
+T* (        cout << a[i] << " ";) Tj
+T* (        }) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+19 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+20 0 obj
+<<
+/Producer (jsPDF 1.3.2 2016-09-30T20:33:17.116Z:jameshall)
+/CreationDate (D:20221102115527-04'00')
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002613 00000 n 
+0000003915 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000000642 00000 n 
+0000000751 00000 n 
+0000002676 00000 n 
+0000002766 00000 n 
+0000002861 00000 n 
+0000002959 00000 n 
+0000003062 00000 n 
+0000003151 00000 n 
+0000003245 00000 n 
+0000003342 00000 n 
+0000003443 00000 n 
+0000003536 00000 n 
+0000003628 00000 n 
+0000003722 00000 n 
+0000003820 00000 n 
+0000004153 00000 n 
+0000004274 00000 n 
+trailer
+<<
+/Size 22
+/Root 21 0 R
+/Info 20 0 R
+>>
+startxref
+4378
+%%EOF
