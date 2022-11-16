@@ -9,7 +9,7 @@ Repository Birthdate: 9/7/2022
 
 
 # **`All Labs`**
-### Lab 1
+"google.com" ### Lab 1 
     Most Recent Submission: 9/13/2022 
     Due 9/14/2022 11am
  ### Lab 2
