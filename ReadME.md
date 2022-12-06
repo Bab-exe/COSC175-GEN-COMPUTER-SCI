@@ -43,8 +43,8 @@ Repository Birthdate: 9/7/2022
     Most Recent Submission: 11/30/2022
     Due 11/30/2022 by 11:00 am
 ### Lab 12
-    Most Recent Submission: ?
-    Due ?
+    Most Recent Submission: 12/6/2022
+    Due 12/6/2022 by 11:00am
  ### Lab 13
     Most Recent Submission: ?
     Due ?
