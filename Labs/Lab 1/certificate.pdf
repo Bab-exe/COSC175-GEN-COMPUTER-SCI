@@ -1,0 +1,278 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 491>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Security Injections @ Towson) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 742.68 Td
+(Module: Software Development Lifecycle - CS0 C++) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 714.33 Td
+(Student: Blessing Osereme Abumere) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 685.98 Td
+(Date: 09/13/2022) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 657.64 Td
+(ID: 1634801901) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 1234>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Discussion Questions) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 728.50 Td
+(Where do you think security should fit into the SDLC?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 684.16 Td
+(Every Step in SDLC.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 643.81 Td
+(Why is security more of a concern than it was 10 years ago?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 599.47 Td
+(Because much can be lost due to lack of security. 10 years ago the internet was not) Tj
+T* (as widely used as it is in present day .) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 547.12 Td
+(If a program has no syntax errors, can we assume that it is secure?) Tj
+T* (Why or why not?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 486.77 Td
+(No. The program can still have logic errors which can still make it very vulnerable.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 446.43 Td
+(Compare software security and security software.) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 402.08 Td
+(Software security is security hard-coded into an already existing software. Security) Tj
+T* (software is external software designed to work alongside already existing software.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+19 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+20 0 obj
+<<
+/Producer (jsPDF 1.3.2 2016-09-30T20:33:17.116Z:jameshall)
+/CreationDate (D:20220913104827-04'00')
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002051 00000 n 
+0000003353 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000000658 00000 n 
+0000000767 00000 n 
+0000002114 00000 n 
+0000002204 00000 n 
+0000002299 00000 n 
+0000002397 00000 n 
+0000002500 00000 n 
+0000002589 00000 n 
+0000002683 00000 n 
+0000002780 00000 n 
+0000002881 00000 n 
+0000002974 00000 n 
+0000003066 00000 n 
+0000003160 00000 n 
+0000003258 00000 n 
+0000003591 00000 n 
+0000003712 00000 n 
+trailer
+<<
+/Size 22
+/Root 21 0 R
+/Info 20 0 R
+>>
+startxref
+3816
+%%EOF

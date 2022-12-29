@@ -9,15 +9,15 @@ using namespace std;
 
 int main(){
 
-	char TicTacTow[3][3];
+	char TicTacTow[3][3] = { 
+		{ '?', '?', '?' },
+		{ '?', '?', '?' },
+		{ '?', '?', '?'}
+	};
 
 	int  row;
 	int  col;
-	for (row = 0; row < 3; row++)
-	{
-		for (col = 0; col < 3; col++)
-			TicTacTow[row][col] = '?';
-	}
+	
 
 	//2nd: Assign X to the First row and column
     TicTacTow[0][0] = 'X';

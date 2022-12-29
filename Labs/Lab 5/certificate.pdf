@@ -1,0 +1,325 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 473>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Security Injections @ Towson) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 742.68 Td
+(Module: Integer Error - CS0 C++) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 714.33 Td
+(Student: Blessing Osereme Abumere) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 685.98 Td
+(Date: 10/12/2022) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+56.69 657.64 Td
+(ID: 873593056) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<</Length 2190>>
+stream
+0.57 w
+0 G
+BT
+/F1 20 Tf
+23 TL
+0 g
+42.52 785.20 Td
+(Discussion Questions) Tj
+ET
+28.346 771.024 m 
+538.582 771.024 l
+S
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 728.50 Td
+(What is the largest possible value of type int? Explain your answer using) Tj
+T* (the information you read in the background section.) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 668.16 Td
+(The largest possible value of an int in cpp is 2147483647 or \(2^31\)-1.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 627.81 Td
+(What happens when the result of an operation on values of type int) Tj
+T* (exceeds this value ? Explain.) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 567.47 Td
+(When the integer value is more than 2147483647 it leads to an error making the) Tj
+T* (integer negative which is a vulnerability.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 515.12 Td
+(Look up the population of the United States:) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 470.77 Td
+(The population of the US in 2020 was 329.5 million.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 430.43 Td
+(Look up the population of the world:) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 386.08 Td
+(The population of the world in 2020 was 7.753 billion.) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 345.73 Td
+(Look up the United States's national debt:) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 301.39 Td
+(The US national debt as of 10:11 10/12/2022 is $31,138,038,700,900) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 261.04 Td
+(For which of these would the int data type be a problem: population of) Tj
+T* (the US, population of the world or US national debt?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 200.70 Td
+(US national debt) Tj
+ET
+BT
+/F1 16 Tf
+18.4 TL
+0 g
+42.52 160.35 Td
+(Discuss the Comair problem described in the background section. What) Tj
+T* (are the repercussions of such a problem?) Tj
+ET
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0 g
+99.21 100.00 Td
+(The Comair Problem was caused by them using a 16-bit integer system for their) Tj
+T* (scheduling software which maxes out at \(2^15 - 1\) or 32767. The repercussions for) Tj
+T* (such a problem would be unexpected behavior in the software making it to much of a) Tj
+T* (risk to use.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+18 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+19 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+20 0 obj
+<<
+/Producer (jsPDF 1.3.2 2016-09-30T20:33:17.116Z:jameshall)
+/CreationDate (D:20221012101803-04'00')
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002989 00000 n 
+0000004291 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000000640 00000 n 
+0000000749 00000 n 
+0000003052 00000 n 
+0000003142 00000 n 
+0000003237 00000 n 
+0000003335 00000 n 
+0000003438 00000 n 
+0000003527 00000 n 
+0000003621 00000 n 
+0000003718 00000 n 
+0000003819 00000 n 
+0000003912 00000 n 
+0000004004 00000 n 
+0000004098 00000 n 
+0000004196 00000 n 
+0000004529 00000 n 
+0000004650 00000 n 
+trailer
+<<
+/Size 22
+/Root 21 0 R
+/Info 20 0 R
+>>
+startxref
+4754
+%%EOF

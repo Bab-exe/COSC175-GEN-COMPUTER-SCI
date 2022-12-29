@@ -14,7 +14,7 @@ int main(){
     cout << "Enter test score" << endl;
         cin >> testScore;
             if (testScore > 100 || testScore < 0){
-                cout << "Invalid Test Score" << endl;
+                cout << "Invalid" << endl;
                 return 0;
             }
 

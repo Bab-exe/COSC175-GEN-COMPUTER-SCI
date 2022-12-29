@@ -1,20 +1,24 @@
 /*
+	Lab 1 
 	Blessing Abumere
 	9/7/2022 3:20pm
 	GEN COMPUTER SCI (COSC175006)-1224
 */
 #include <iostream>
-using namespace std;
-int main()
-{
-	float num1; 
-	float num2; 
-	float avg; 
+#include <string>
+using std::cout;
+using std::string;
 
-	cout << "Enter two numbers" << endl; 
-	cin >> num1 >> num2; 
-	avg = (num1 + num2) /2; 
-	cout << "The average is " << avg;
+template <typename T>
 
-       return 0;
+T print (T var){
+	cout << var;
+	return var;
+}
+	
+
+int main(){
+	int array[] = {1,2,3,4,5,6,79,8,9};
+	int *pArray = array;
+	print(pArray);
 }
