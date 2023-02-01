@@ -68,16 +68,6 @@ Repository Birthdate: 9/7/2022
 ### HW 4 
     Most Recent Submission: 11/17/2022
     Due 11/17/2022 by 11:00 am 
-### HW 5
-    Most Recent Submission: ? 
-    Due ? 
-### HW 6
-    Most Recent Submission: ? 
-    Due ?
-### HW 7
-    Most Recent Submission: ? 
-    Due ?
-
 
 # **`Syllabus`**
 Tentative Schedule for Fall 2022:
